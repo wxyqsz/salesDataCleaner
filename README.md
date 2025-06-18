@@ -24,6 +24,7 @@ https://www.kaggle.com/datasets/ahmedmohamed2003/retail-store-sales-dirty-for-da
 
 ![image](https://github.com/wxyqsz/netlfixTitleExplore/blob/main/visuals/3.png)
 
+![image](https://github.com/wxyqsz/netflixTitleExplore/blob/main/visuals/5.png)
 
 ## Getting Starteda
 Clone this repo and open the notebook:
