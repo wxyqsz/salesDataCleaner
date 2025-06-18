@@ -18,11 +18,11 @@ https://www.kaggle.com/datasets/ahmedmohamed2003/retail-store-sales-dirty-for-da
 - Jupyter Notebook in vs code 
 
 ## Sample Visuals
-![image](https://github.com/user-attachments/assets/19e3ab6a-f042-460d-bfb8-db3a4bbb400f)
+[![image](https://github.com/wxyqsz/netlfixTitleExplore/blob/main/visuals/1.png)
 
-![image](https://github.com/user-attachments/assets/0976f226-14f6-4070-b1b1-50c94572cea8)
+![image](https://github.com/wxyqsz/netlfixTitleExplore/blob/main/visuals/2.png)
 
-![image](https://github.com/user-attachments/assets/b6c8dfb4-241d-40a3-9388-1bcc34f817ab)
+![image](https://github.com/wxyqsz/netlfixTitleExplore/blob/main/visuals/3.png)
 
 
 ## Getting Starteda
